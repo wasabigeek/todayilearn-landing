@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+# todayilearn
+
+Curated articles from the best coding newsletters, dripped according to _your_ schedule
 
 You can use the [editor on GitHub](https://github.com/wasabigeek/todayilearn-landing/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
