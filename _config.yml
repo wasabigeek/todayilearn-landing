@@ -1,4 +1,4 @@
 theme: jekyll-theme-hacker
 title: todayilearn
 description: Curated articles on coding, dripped according to _your_ schedule
-show_downloads: "false"
+show_downloads: false
